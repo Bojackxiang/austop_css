@@ -1,0 +1,41 @@
+.special-red{
+  color: #b22222;
+}
+.title{
+  width: 100%;
+  text-align: center;
+}
+.paragraph{
+  font-size: 16px;
+  line-height: 30px;
+}
+.image{
+  width: 100%;
+  text-align:center;
+}
+.the-image{
+  padding-top: 20px; 
+  padding-bottom: 30px;
+}
+.sub-title{
+  font-size: 20px; 
+  fonr-weight: bold;
+  padding-top: 20px;
+}
+.list-title{
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.list{
+  font-size: 14px;
+}
+.list-content{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.paragraph-title{
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 30px;
+}
